@@ -1,0 +1,12 @@
+Hi {{ Corp }}, 
+
+My name is {{ me.name }} from Student RND, a 501c3 Non-profit that organizes CodeDay. CodeDay is a 24-hour programming marathon for middle school through college students. CodeDay is an awesome event and would love to have you there! 
+
+CodeDay depends on sponsors to make our events happen. We would love to have you as our sponsor and think that our participants could do some pretty awesome things with your products and software. As a result, your company benefits from the many things that CodeDay can offer it:
+
+* you can recruit for internships at the event
+* spread word of your api, products, and software
+
+Thanks, 
+{{ me.name }}
+{{ me.title }}
